@@ -1,4 +1,4 @@
-# unix_terminal_comsands
+# unix_terminal_commands
 manual for unix commands
 
 
